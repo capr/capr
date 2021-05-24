@@ -10,7 +10,7 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [sock](https://luapower.com/sock), a coroutine-based socket library with IOCP, epoll and kqueue for LuaJIT.
 
-[coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to work inside scheduled coroutine environments.
+[coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
 
 [resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers at once and uses the result that comes first.
 
