@@ -4,7 +4,7 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 ### Tools
 
-[multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer.
+[multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager of [luapower.com](http://luapower.com/).
 
 ### Lua & LuaJIT
 
