@@ -12,7 +12,7 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
 
-[resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers at once and uses the result that comes first.
+[resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers in parallel and uses the result that comes first.
 
 [http](https://luapower.com/http), a pure-Lua HTTP client and server library that is independent of the socket library used for I/O.
 
