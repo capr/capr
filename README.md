@@ -24,6 +24,8 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [ui](https://luapower.com/ui), an extensible UI toolkit written in Lua with widgets, layouts, styles and animations, leveraging my Terra work.
 
+[path2d](https://luapower.com/path2d), a fast, full-featured 2D geometry library written in Lua which includes construction, drawing, measuring, hit testing and editing of 2D paths.
+
 [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library for LuaJIT.
 
 [tweening](https://luapower.com/tweening), an animation library inspired by GSAP.
