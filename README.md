@@ -18,17 +18,29 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [winapi](https://luapower.com/winapi), a binding of Windows API for LuaJIT, including windows, common controls and dialogs, message loop and system APIs.
 
+[objc](https://luapower.com/objc), a full-featured Objective-C and Cocoa bridge for LuaJIT.
+
 [nw](https://luapower.com/nw), a cross-platform library (Windows, Linux, Mac) for working with windows, graphics and input (like SDL but in Lua).
+
+[ui](https://luapower.com/ui), an extensible UI toolkit written in Lua with widgets, layouts, styles and animations, leveraging my Terra work.
 
 [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library for LuaJIT.
 
+[tweening](https://luapower.com/tweening), an animation library inspired by GSAP.
+
+[thread](https://luapower.com/thread), cross-platform threads and thread primitives for Lua.
+
 [webb](https://luapower.com/webb), a procedural web framework for Lua, which besides being a total oxymoron for the current generation of web developers, enables the creation  powerful web apps with extremely low amounts of code, zero tooling and zero offline processing ("building" as the kids call it), by leveraging the principle of convention-over-configuration.
+
+[bundle](https://github.com/luapower/bundle), a small framework for bundling together LuaJIT, Lua modules, Lua/C modules, DynASM/Lua modules, C libraries, and other static assets (and even directory listings) into a single fat executable.
 
 ### Terra
 
 [terra.layer](https://luapower.com/terra.layer), a HTML-like box-model layouting and rendering engine in Terra with a C API.
 
 [terra.tr](https://luapower.com/terra.tr), a Unicode text layouting and rendering engine in Terra with a C API.
+
+[terra.binder](https://luapower.com/terra.binder), Terra build system, C header generator and LuaJIT ffi binding generator.
 
 ### JavaScript
 
