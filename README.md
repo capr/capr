@@ -16,6 +16,8 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [http](https://luapower.com/http), a pure-Lua HTTP client and server library that is independent of the socket library used for I/O.
 
+[dynasm](https://luapower.com/dynasm), a modified version of [DynASM](https://corsix.github.io/dynasm-doc/) that allows generating, compiling, and running x86 and x86-64 assembly code directly from Lua.
+
 [winapi](https://luapower.com/winapi), a binding of Windows API for LuaJIT, including windows, common controls and dialogs, message loop and system APIs.
 
 [objc](https://luapower.com/objc), a full-featured Objective-C and Cocoa bridge for LuaJIT.
