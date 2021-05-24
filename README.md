@@ -12,11 +12,11 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
 
-[oo](https://luapower.com/oo), an object system with virtual properties and method overriding hooks for Lua.
-
 [resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers in parallel and uses the result that comes first.
 
 [http](https://luapower.com/http), a pure-Lua HTTP client and server library that is independent of the socket library used for I/O.
+
+[oo](https://luapower.com/oo), an object system with virtual properties and method overriding hooks for Lua.
 
 [dynasm](https://luapower.com/dynasm), a modified version of [DynASM](https://corsix.github.io/dynasm-doc/) that allows generating, compiling, and running x86 and x86-64 assembly code directly from Lua.
 
@@ -32,6 +32,8 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library for LuaJIT.
 
+[bmp](https://luapower.com/bmp), a Windows BMP file loading and saving module that handles all BMP file header versions, color depths and pixel formats.
+
 [tweening](https://luapower.com/tweening), an animation library inspired by GSAP.
 
 [thread](https://luapower.com/thread), a cross-platform threads and thread primitives for Lua.
@@ -39,8 +41,6 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 [mustache](https://luapower.com/mustache), a full-spec mustache parser and bytecode-based renderer that produces the exact same output as mustache.js.
 
 [webb](https://luapower.com/webb), a procedural web framework for Lua, which besides being a total oxymoron for the current generation of web developers, enables the creation  powerful web apps with extremely low amounts of code, zero tooling and zero offline processing ("building" as the kids call it), by leveraging the principle of convention-over-configuration.
-
-[bmp](https://luapower.com/bmp), a Windows BMP file loading and saving module that handles all BMP file header versions, color depths and pixel formats.
 
 [bundle](https://github.com/luapower/bundle), a small framework for bundling together LuaJIT, Lua modules, Lua/C modules, DynASM/Lua modules, C libraries, and other static assets (and even directory listings) into a single fat executable.
 
