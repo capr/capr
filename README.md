@@ -34,6 +34,8 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 
 [thread](https://luapower.com/thread), cross-platform threads and thread primitives for Lua.
 
+[mustache](https://luapower.com/mustache), full-spec mustache parser and bytecode-based renderer that produces the exact same output as mustache.js.
+
 [webb](https://luapower.com/webb), a procedural web framework for Lua, which besides being a total oxymoron for the current generation of web developers, enables the creation  powerful web apps with extremely low amounts of code, zero tooling and zero offline processing ("building" as the kids call it), by leveraging the principle of convention-over-configuration.
 
 [bundle](https://github.com/luapower/bundle), a small framework for bundling together LuaJIT, Lua modules, Lua/C modules, DynASM/Lua modules, C libraries, and other static assets (and even directory listings) into a single fat executable.
