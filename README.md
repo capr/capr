@@ -56,4 +56,4 @@ I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here a
 
 ### JavaScript
 
-[x-widgets](https://luapower.com/x-widgets), a complete set of model-driven live-editable web components in pure JavaScript, including a super-fast editable virtual grid component with 3-way-binding and master-detail linking, useful for writing backoffice-type business apps.
+[x-widgets](https://luapower.com/x-widgets), a collection of model-driven live-editable web components in pure JavaScript, including a fast editable virtual grid component with 3-way-binding and master-detail linking, useful for writing backoffice-type business apps.
