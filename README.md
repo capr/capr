@@ -1,5 +1,7 @@
 Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at [luapower.com](https://luapower.com) (with repos kept at [github.com/luapower](https://github.com/luapower)) which is why you don't see much coding activity in here even though my stats say otherwise.
 
+I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of stuff.
+
 ## Stuff I've been working on
 
 ### Tools
@@ -55,7 +57,3 @@ Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at 
 ### JavaScript
 
 [x-widgets](https://luapower.com/x-widgets), a complete set of model-driven live-editable web components in pure JavaScript, including a super-fast editable virtual grid component with 3-way-binding and master-detail linking, useful for writing backoffice-type business apps.
-
-### In other news...
-
-I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of stuff.
