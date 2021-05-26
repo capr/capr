@@ -6,7 +6,7 @@ I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here a
 
 ### Tools
 
-[multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager of luapower.com.
+[multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager of luapower.com (and why my repos don't have `README.md`, but `<module>.md`).
 
 ### Lua & LuaJIT
 
