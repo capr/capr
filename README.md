@@ -54,7 +54,7 @@ Here's some of its libraries in no particular order (full list on the website):
 
 ### Terra
 
-Related to LuaJIT is [Terra](https://terralang.org), a low-level system programming language that is meta-programmed in Lua. Although it's a LLVM frontend, Terra's metaprograming features allow you to "lift it up" from its basic C semantics to C++ level capabilities and beyond, so you can code at different levels of abstraction depending on your problem without sacrificing performance, which is arguably the holy grail of all programming. Here's some of the more advanced stuff that I've been doing with it:
+Related to LuaJIT is [Terra](https://terralang.org), a low-level system programming language that is meta-programmed in Lua. Although it's a LLVM frontend, Terra's metaprograming features allow you to "lift it up" from its basic C semantics to C++ level capabilities and beyond, so you can code at different levels of abstraction without sacrificing performance, which is arguably the holy grail of all programming. Here's some of the more advanced stuff that I've been doing with it:
 
   * [terra.layer](https://luapower.com/terra.layer), a HTML-like box-model layouting and rendering engine in Terra with a C API.
 
