@@ -46,4 +46,4 @@ Related to LuaJIT is [Terra](https://terralang.org), a low-level system programm
 
 [x-widgets](https://luapower.com/x-widgets), a collection of model-driven live-editable web components in pure JavaScript, including a fast editable virtual grid component with 3-way-binding and master-detail linking, useful for writing backoffice-type business apps. 
 
-There's also a 3D math library for WebGL and a tiny WebGL2 wrapper in there if you look hard enough.
+There's also a 3D math library for WebGL and a tiny WebGL2 wrapper in there but the documentation on that is sparse.
