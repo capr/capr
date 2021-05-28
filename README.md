@@ -13,6 +13,7 @@ I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here a
 [luapower.com](https://luapower.com), a modular and portable LuaJIT toolkit (Windows, Linux and Mac), with everything from native OS API bindings to portable sockets, threads,  windows, graphics, etc. Comes with documentation, binaries and the ability to create single-executable apps (desktop or command-line).
 
 Here's some of its libraries in no particular order (full list on the website):
+
   * [winapi](https://luapower.com/winapi), a binding of Windows API for LuaJIT, including windows, common controls and dialogs, message loop and system APIs.
   * [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library for LuaJIT.
   * [sock](https://luapower.com/sock), a coroutine-based socket library with IOCP, epoll and kqueue for LuaJIT.
@@ -35,7 +36,8 @@ Here's some of its libraries in no particular order (full list on the website):
 
 ### Terra
 
-Related to LuaJIT is [Terra](https://terralang.org), a low-level system programming language that is meta-programmed in Lua. Although it's a LLVM frontend, Terra's metaprograming features allow you to "lift it up" from its basic C semantics to C++ level capabilities and beyond, so you can code at different levels of abstraction without sacrificing performance, which is arguably the holy grail of all programming. Here's some of the more advanced stuff that I've been doing with it:
+Related to LuaJIT is [Terra](https://terralang.org), a low-level system programming language that is meta-programmed in Lua. Although it's a LLVM frontend, Terra's metaprograming features allow you to "lift it up" from its basic C semantics to C++ level capabilities and beyond, so you can code at different levels of abstraction without sacrificing performance, which is arguably the holy grail of all programming. Here's some of the more advanced stuff that I've done with it:
+
   * [terra.layer](https://luapower.com/terra.layer), a HTML-like box-model layouting and rendering engine in Terra with a C API.
   * [terra.tr](https://luapower.com/terra.tr), a Unicode text layouting and rendering engine in Terra with a C API.
   * [terra.binder](https://luapower.com/terra.binder), Terra build system, C header generator and LuaJIT ffi binding generator.
