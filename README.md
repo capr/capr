@@ -15,7 +15,7 @@ I also keep a [scrapbook/blog/wiki](https://github.com/capr/scrapbook) in here a
 Here's some of its libraries in no particular order (full list on the website):
   * [sock](https://luapower.com/sock), a coroutine-based socket library with IOCP, epoll and kqueue for LuaJIT.
   * [coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
-  * [fs](https://luapower.com), a portable filesystem library with utf-8 filenames, symlinks, hardlinks, pipes and mmapping (works on Windows, Linx & Mac).
+  * [fs](https://luapower.com), a portable filesystem library with utf-8 filenames, symlinks, hardlinks, pipes and mmapping (Windows, Linux, Mac).
   * [http](https://luapower.com/http), a pure-Lua HTTP client and server library that is independent of the socket library used for I/O.
   * [resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers in parallel and uses the result that comes first.
   * [oo](https://luapower.com/oo), an object system with virtual properties and method overriding hooks for Lua.
