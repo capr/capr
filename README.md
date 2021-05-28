@@ -17,8 +17,10 @@ Here's some of its libraries in no particular order (full list on the website):
   * [winapi](https://luapower.com/winapi), a binding of Windows API, including windows, common controls and dialogs, message loop and system APIs.
   * [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library.
   * [sock](https://luapower.com/sock), a coroutine-based socket library with IOCP, epoll and kqueue.
-  * [http](https://luapower.com/http), a pure-Lua HTTP client and server library that is independent of the socket library used for I/O.
-  * [fs](https://luapower.com), a portable filesystem library with utf-8 filenames, symlinks, hardlinks, pipes and mmapping (Windows, Linux, Mac).
+  * [http](https://luapower.com/http), a HTTP protocol library that is independent of the socket library used for I/O.
+    * [http_client](https://luapower.com/http_client) with TLS, compression, persistent connections, pipelining, multiple client IPs, resource limits, auto-redirects, auto-retries, cookie jars, multi-level debugging, caching, cdata-buffer-based I/O. In short, your dream library for web scraping.
+    * [http_server](https://luapower.com/http_server) with TLS, compression, persistent connections, pipelining, resource limits, multi-level debugging, buffer-based I/O.
+  * [fs](https://luapower.com), a portable filesystem library that supports UTF-8 filenames, symlinks, hardlinks, pipes and mmapping on Windows, Linux and Mac.
   * [coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
   * [resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers in parallel and uses the result that comes first.
   * [oo](https://luapower.com/oo), an object system with virtual properties and method overriding hooks.
