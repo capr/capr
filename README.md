@@ -23,6 +23,7 @@ Here's some of its libraries in no particular order (full list on the website):
   * [fs](https://luapower.com), a portable filesystem library that supports UTF-8 filenames, symlinks, hardlinks, pipes and mmapping on Windows, Linux and Mac.
   * [coro](https://luapower.com/coro), adds symmetric coroutines to Lua and modifies standard coroutines to not break inside scheduled coroutine environments.
   * [resolver](https://luapower.com/resolver), a DNS resolver that queries multiple servers in parallel and uses the result that comes first.
+  * [glue](https://luapower.com/glue), an "assorted lengths of wire" library for Lua.
   * [oo](https://luapower.com/oo), an object system with virtual properties and method overriding hooks.
   * [dynasm](https://luapower.com/dynasm), a modified version of [DynASM](https://corsix.github.io/dynasm-doc/) that allows generating, compiling, and running x86 and x86-64 assembly code directly from Lua.
   * [objc](https://luapower.com/objc), a full-featured Objective-C and Cocoa bridge for LuaJIT.
