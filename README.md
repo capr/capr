@@ -1,4 +1,4 @@
-Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at [luapower.com](https://luapower.com) (with repos kept at [github.com/luapower](https://github.com/luapower)) which is why you don't see much coding activity in here even though my stats say otherwise.
+Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at [luapower.com](https://luapower.com) (with repos kept at [github.com/luapower](https://github.com/luapower)) which is why you don't see much coding activity in here.
 
 I also keep a [scrapbook/blog/wiki](https://github.com/capr/blag/issues) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of thing.
 
@@ -10,7 +10,7 @@ I also keep a [scrapbook/blog/wiki](https://github.com/capr/blag/issues) in here
 
 ### Lua & LuaJIT
 
-[luapower.com](https://luapower.com), a modular and portable LuaJIT toolkit (Windows, Linux and Mac), with everything from native OS API bindings to portable sockets, threads,  windows, graphics, etc. Comes with documentation, binaries and the ability to create single-executable apps (desktop or command-line).
+[luapower.com](https://luapower.com), a modular and portable LuaJIT toolkit (Windows, Linux ~~and Mac~~), with everything from native OS API bindings to portable sockets, threads,  windows, graphics, etc. Comes with documentation, binaries and the ability to create single-executable apps (desktop or command-line).
 
 Here's some of its libraries in no particular order (full list on the website):
 
