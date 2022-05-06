@@ -1,4 +1,8 @@
-Hi, I'm Cosmin, a programmer from Bucharest. Most of my open source stuff is at [luapower.com](https://luapower.com) (with repos kept at [github.com/luapower](https://github.com/luapower)) which is why you don't see much coding activity in here.
+Hi, I'm Cosmin, a programmer from Bucharest. 
+
+At the moment I'm working on the [Allegory SDK](https://github.com/allegory-software/allegory-sdk), a self-contained cross-platform low-code programming environment for developing web-based database-driven business apps in LuaJIT and JavaScript.
+
+My other big open source project is [luapower.com](https://luapower.com) with repos kept at [github.com/luapower](https://github.com/luapower).
 
 I also keep a [blag](https://github.com/capr/blag) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of thing.
 
