@@ -1,6 +1,6 @@
 Hi, I'm Cosmin, a programmer from Bucharest. 
 
-At the moment I'm working on the [Allegory SDK](https://github.com/allegory-software/allegory-sdk), a self-contained cross-platform low-code programming environment for developing web-based database-driven business apps in LuaJIT and JavaScript.
+At the moment I'm working on the [Allegory SDK](https://github.com/allegory-software/allegory-sdk), a cross-platform full stack for developing web-based business apps in LuaJIT and JavaScript.
 
 My other big open source project is [luapower.com](https://luapower.com) with repos kept at [github.com/luapower](https://github.com/luapower).
 
