@@ -8,6 +8,10 @@ I also keep a [blag](https://github.com/capr/blag) in here and [a friend's old p
 
 ## Stuff I've been working on
 
+### Web Application Platform for Business Apps
+
+[Allegory SDK](https://github.com/allegory-software/allegory-sdk), a powerful full stack for developing database-driven business apps on the web.
+
 ### Tools
 
 [multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager of luapower (and the reason the repos in there don't keep documentation in `README.md`, but in `<module>.md`).
