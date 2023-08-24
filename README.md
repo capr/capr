@@ -1,26 +1,24 @@
 Hi, I'm Cosmin, a programmer from Bucharest. 
 
-At the moment I'm working on the [Allegory SDK](https://github.com/allegory-software/allegory-sdk), a full stack for developing web-based business apps in LuaJIT and JavaScript.
+## Stuff I'm working on
 
-My other big open source project is [luapower.com](https://luapower.com) with repos kept at [github.com/luapower](https://github.com/luapower).
+At the moment I'm working on [canvas-ui](https://github.com/allegory-software/canvas-ui), a UI library with an IMGUI API, built-in screen sharing, and other interesting bits. Written in JavaScript, canvas-drawn.
 
-I also keep a [blag](https://github.com/capr/blag) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of thing.
+Concurrently I'm working on [Allegory SDK](https://github.com/allegory-software/allegory-sdk), a fast web server and library stack written in Lua. It's aimed at automating the making of CRUD apps rendered with canvas-ui, but its library-not-frameowrk approach makes it very versatile for doing anything on the web from server-rendered websites to template-based SPAs to component-based apps.
 
-## Stuff I've been working on
+I also work on [miniterra](https://github.com/capr/miniterra) when I can. It's a programming language with some cool metaprogramming capabilities.
 
-### Web Application Platform for Business Apps
+Finally, I keep a [blag](https://github.com/capr/blag) in here and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), if you're into that sort of thing.
 
-[Allegory SDK](https://github.com/allegory-software/allegory-sdk), a powerful full stack for developing database-driven business apps on the web.
+## Past projects
 
-### Tools
+[multigit](https://github.com/capr/mgit) is a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager for luapower. Other people use it to keep their home directory under version control.
 
-[multigit](https://github.com/capr/mgit), a tool for checking out multiple git repositories overlaid onto the same directory, similar to a union filesystem, where each repository is a layer. Used as the package manager of luapower (and the reason the repos in there don't keep documentation in `README.md`, but in `<module>.md`).
+#### LuaJIT libraries
 
-### Lua & LuaJIT
+[luapower.com](https://luapower.com) is a modular and portable LuaJIT toolkit (Windows, Linux ~~and Mac~~), with everything from native OS API bindings to portable sockets, threads, windows, graphics, etc. Comes with documentation, binaries and the ability to create single-executable apps (desktop or command-line). 
 
-[luapower.com](https://luapower.com), a modular and portable LuaJIT toolkit (Windows, Linux ~~and Mac~~), with everything from native OS API bindings to portable sockets, threads,  windows, graphics, etc. Comes with documentation, binaries and the ability to create single-executable apps (desktop or command-line).
-
-Here's some of its libraries in no particular order (full list on the website):
+Here's some of libraries you will find there in no particular order (full list on the website):
 
   * [winapi](https://luapower.com/winapi), a binding of Windows API, including windows, common controls and dialogs, message loop and system APIs.
   * [cairo](https://luapower.com/cairo), a binding of the cairo 2D vector graphics library.
@@ -45,7 +43,7 @@ Here's some of its libraries in no particular order (full list on the website):
   * [mustache](https://luapower.com/mustache), a full-spec mustache parser and bytecode-based renderer that produces the exact same output as mustache.js.
   * [bundle](https://github.com/luapower/bundle), a small toolkit for bundling together LuaJIT, Lua modules, and other static assets into a single fat executable.
 
-### Terra
+#### Terra libraries
 
 Related to LuaJIT is [Terra](https://terralang.org), a low-level system programming language that is meta-programmed in Lua. Although it's a LLVM frontend, Terra's metaprograming features allow you to "lift it up" from its basic C semantics to C++ level capabilities and beyond, so you can code at different levels of abstraction as your problem demands without sacrificing performance, which is arguably the holy grail of all programming. Here's some of the more advanced stuff that I've done with it:
 
@@ -53,7 +51,7 @@ Related to LuaJIT is [Terra](https://terralang.org), a low-level system programm
   * [terra.tr](https://luapower.com/terra.tr), a Unicode text layouting and rendering engine with a C API.
   * [terra.binder](https://luapower.com/terra.binder), Terra build system, C header generator and LuaJIT ffi binding generator.
 
-### JavaScript
+#### JS libraries
 
 [x-widgets](https://luapower.com/x-widgets), a collection of model-driven live-editable web components in pure JavaScript, including a fast editable virtual grid component with 3-way-binding and master-detail linking, useful for writing backoffice-type business apps. 
 
