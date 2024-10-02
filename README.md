@@ -1,6 +1,6 @@
 Hi, I'm Cosmin, a programmer from Bucharest. 
 
-[Listen to this page in podcast form](https://capr.github.io/deep-dive.wav)
+[Listen to this page in podcast form :)](https://capr.github.io/deep-dive.wav)
 
 ## Stuff I'm working on
 
