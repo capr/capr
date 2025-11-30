@@ -4,7 +4,7 @@ Hi, I'm Cosmin, a programmer from Bucharest.
 
 #### Canvas-UI
 
-[canvas-ui](https://github.com/allegory-software/canvas-ui) 
+[Canvas UI](https://github.com/allegory-software/canvas-ui) 
 is a UI library with an IMGUI API and built-in screen sharing.
 JavaScript, canvas-drawn.
 
@@ -20,7 +20,7 @@ sysadmin tool and application deployment tool written in Bash.
 
 #### Miniterra
 
-[miniterra](https://github.com/capr/miniterra) is a programming language 
+[Miniterra](https://github.com/capr/miniterra) is a programming language 
 with C semantics and lisp-like metaprogramming capabilities.
 
 ## Past projects
