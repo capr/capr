@@ -13,6 +13,11 @@ JavaScript, canvas-drawn.
 [Allegory SDK](https://github.com/allegory-software/allegory-sdk) is a full stack
 for CRUD apps, but with a library-not-frameowrk pyramid-of-abstraction approach.
 
+#### Many Machines
+
+[Many-Machines](https://github.com/allegory-software/many-machines) is a Linux
+sysadmin tool and application deployment tool written in Bash.
+
 #### Miniterra
 
 [miniterra](https://github.com/capr/miniterra) is a programming language 
