@@ -10,10 +10,8 @@ JavaScript, canvas-drawn.
 
 #### Allegory SDK
 
-[Allegory SDK](https://github.com/allegory-software/allegory-sdk) is a fast web server 
-and library stack written in Lua. It's aimed at automating the making of CRUD apps,
-but its library-not-frameowrk pyramid-of-abstraction approach makes it versatile
-for doing anything from web services to websites to SPAs and anything in between.
+[Allegory SDK](https://github.com/allegory-software/allegory-sdk) is a full stack
+for CRUD apps, but with a library-not-frameowrk pyramid-of-abstraction approach.
 
 #### Miniterra
 
