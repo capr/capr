@@ -23,9 +23,9 @@ with C semantics and lisp-like metaprogramming capabilities.
 #### Luapower
 
 [Luapower](https://github.com/luapower/website/blob/master/luapower-www/md/github.md) 
-is a modular and portable LuaJIT toolkit (Windows, Linux), with everything from native OS API bindings
-to portable sockets, threads, windows, graphics, etc. Comes with documentation, binaries and 
-the ability to create single-executable apps (desktop or command-line). 
+is a LuaJIT toolkit (Windows, Linux), with native OS API bindings to portable sockets, 
+threads, windows, graphics, etc. Comes with documentation, binaries and the ability
+to create single-executable apps (desktop or command-line). 
 
 #### Multigit
 
