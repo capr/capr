@@ -1,33 +1,24 @@
 Hi, I'm Cosmin, a programmer from Bucharest. 
 
-[Listen to this page in podcast form :)](https://capr.github.io/deep-dive.wav)
-
 ## Stuff I'm working on
 
 #### Canvas-UI
 
-At the moment I'm working on [canvas-ui](https://github.com/allegory-software/canvas-ui), 
-a UI library with an IMGUI API, built-in screen sharing, and other interesting bits.
-Written in JavaScript, canvas-drawn.
+[canvas-ui](https://github.com/allegory-software/canvas-ui) 
+is a UI library with an IMGUI API and built-in screen sharing.
+JavaScript, canvas-drawn.
 
 #### Allegory SDK
 
-Concurrently I'm working on [Allegory SDK](https://github.com/allegory-software/allegory-sdk), 
-a fast web server and library stack written in Lua. It's aimed at automating the making of 
-large and complicated business apps, but its library-not-frameowrk pyramid-of-abstraction
-approach makes it very versatile for doing anything from web services to websites to SPAs
-and anything in between.
+[Allegory SDK](https://github.com/allegory-software/allegory-sdk) is a fast web server 
+and library stack written in Lua. It's aimed at automating the making of CRUD apps,
+but its library-not-frameowrk pyramid-of-abstraction approach makes it versatile
+for doing anything from web services to websites to SPAs and anything in between.
 
 #### Miniterra
 
-I also work on [miniterra](https://github.com/capr/miniterra) when I can.
-It's a programming language with some cool metaprogramming capabilities.
-
-#### Blag
-
-Finally, I keep a [blag](https://github.com/capr/blag) in here 
-and [a friend's old polaroids](https://rawgit.com/capr/oldbeat/master/index.html), 
-if you're into that sort of thing.
+[miniterra](https://github.com/capr/miniterra) is a programming language 
+with C semantics and lisp-like metaprogramming capabilities.
 
 ## Past projects
 
